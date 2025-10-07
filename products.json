@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"CPVC Pipe 1 inch","description":"High-quality CPVC pipe for hot and cold water.","price":"৳250","category":"cpvc"},
+  {"id":2,"name":"CPVC Elbow 90°","description":"Durable elbow joint for CPVC systems.","price":"৳80","category":"cpvc"},
+  {"id":3,"name":"PPR Pipe 1 inch","description":"Green PPR pipe for industrial and home use.","price":"৳200","category":"ppr"},
+  {"id":4,"name":"PPR Tee Connector","description":"Tee connector fitting for PPR lines.","price":"৳90","category":"ppr"}
+]
